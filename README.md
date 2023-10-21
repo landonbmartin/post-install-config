@@ -244,4 +244,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
-<h3 align = "right">Next Tutorial - <a href="https://github.com/landonbmartin/ticket-lifecycle">osTicket - osTicket Ticket Lifecycle</a></h3>
+<h3 align = "right">Next Tutorial - <a href="https://github.com/landonbmartin/ticket-lifecycle">osTicket - Ticket Lifecycle</a></h3>

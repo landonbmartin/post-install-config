@@ -239,7 +239,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Further Reading and Manual</h3>
 <ul>
-  <li>This concludes to basics of osTicket configuration, but further information and research on the features of osTicket can be found in the official online doccumentation <a href= "https://docs.osticket.com/en/latest/index.html">here</a></li>
+  <li>This concludes to basics of osTicket configuration, but further information and research on the features of osTicket can be found in the official online documentation <a href= "https://docs.osticket.com/en/latest/index.html">here</a></li>
 </ul>
 
 <br />

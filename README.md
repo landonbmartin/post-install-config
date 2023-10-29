@@ -230,17 +230,8 @@ This tutorial outlines the post-install configuration of the open-source help de
     <img width="800" alt="Help Topic - Password Reset" src="https://github.com/landonbmartin/post-install-config/assets/148168629/17ce7c54-1911-4bba-ae59-afee4c7e8b63">
   </ul>
 </br>
-  
 </ul>
-  
 </p>
-
-</br>
-
-<h3>Further Reading and Manual</h3>
-<ul>
-  <li>This concludes to basics of osTicket configuration, but further information and research on the features of osTicket can be found in the official online documentation <a href= "https://docs.osticket.com/en/latest/index.html">here</a></li>
-</ul>
 
 <br />
 
